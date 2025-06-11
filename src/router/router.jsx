@@ -5,6 +5,7 @@ import RootLayout from "../layouts/RootLayout";
 import Register from "../pages/Register/Register";
 import Login from "../pages/Login/Login";
 
+
 const router = createBrowserRouter([
   {
     path: "/",
